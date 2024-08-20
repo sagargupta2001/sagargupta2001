@@ -4,7 +4,7 @@ Hi 👋 My name is Sagar
 Full-Stack Web Developer
 ------------------------
 
-Currently pursuing my B.Tech Computer Science. I like how businesses can showcase their full potential to the customer through software solutions, may that be a website or anything else. Also, I just love the process of software development as it enables me to take something from an idea to a real product that many can use. Over these years, I have started to become very versed in things like web development using various stacks, design patterns, algorithms and communication.
+With a strong foundation in both frontend and backend technologies, I am a versatile software engineer with experience across multiple domains, including web development, blockchain, and microservices. My skill set spans across Java, Spring Boot, React, TypeScript, and blockchain technologies like Solidity, making me adept at building robust and scalable applications. My ability to work on high-impact projects, such as developing a virtualized table for large datasets or a 3D model configurator for an e-commerce platform, showcases my capability to handle complex challenges. My education in Computer Science from Amity University and hands-on experience with leading companies like Global Logic and Zerocart further solidify my expertise in delivering innovative solutions that drive efficiency and enhance my experience.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Resume](https://drive.google.com/file/d/1aABng8ULTBp_ZWQbvARvtsyfqFz-oTk1/view?usp=sharing)
@@ -42,11 +42,3 @@ Currently pursuing my B.Tech Computer Science. I like how businesses can showcas
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/sagargupta2001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sagar-gupta-53626718b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/sagargupta2001"><img src="https://github-readme-stats.vercel.app/api?username=sagargupta2001&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sagargupta2001's GitHub stats" /></a>
-
-<a href="http://www.github.com/sagargupta2001"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sagargupta2001&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
