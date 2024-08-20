@@ -7,10 +7,8 @@ Full-Stack Web Developer
 Currently pursuing my B.Tech Computer Science. I like how businesses can showcase their full potential to the customer through software solutions, may that be a website or anything else. Also, I just love the process of software development as it enables me to take something from an idea to a real product that many can use. Over these years, I have started to become very versed in things like web development using various stacks, design patterns, algorithms and communication.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Resume](http://drive.google.com/file/d/1Bz6Ec_Qzy5RfUVFsJF7gcrbys4pdAIuT/view?usp=sharing)
+* 🖥️  See my portfolio at [Resume](https://drive.google.com/file/d/1aABng8ULTBp_ZWQbvARvtsyfqFz-oTk1/view?usp=sharing)
 * ✉️  You can contact me at [sagargupta201@outlook.com](mailto:sagargupta201@outlook.com)
-* 🚀  I'm currently working on [Web 3.0](http://github.com/sagargupta2001/web3.0)
-* 🧠  I'm learning Blockchain Technology
 
 ### Skills
 
