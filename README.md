@@ -7,7 +7,7 @@ Full-Stack Web Developer
 With a strong foundation in both frontend and backend technologies, I am a versatile software engineer with experience across multiple domains, including web development, blockchain, and microservices. My skill set spans across Java, Spring Boot, React, TypeScript, and blockchain technologies like Solidity, making me adept at building robust and scalable applications. My ability to work on high-impact projects, such as developing a virtualized table for large datasets or a 3D model configurator for an e-commerce platform, showcases my capability to handle complex challenges. My education in Computer Science from Amity University and hands-on experience with leading companies like Global Logic and Zerocart further solidify my expertise in delivering innovative solutions that drive efficiency and enhance my experience.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Resume]([https://drive.google.com/file/d/1PE09OFdPKztY1frCVe8JOrH77JMn6O2B/view?usp=sharing](https://drive.google.com/file/d/1VLdjTDovd1voXqc6PTam-l8hrlzy6y17/view?usp=sharing))
+* 🖥️  See my portfolio at [Resume](https://drive.google.com/file/d/1PE09OFdPKztY1frCVe8JOrH77JMn6O2B/view?usp=sharing](https://drive.google.com/file/d/1VLdjTDovd1voXqc6PTam-l8hrlzy6y17/view?usp=sharing)
 * ✉️  You can contact me at [sagargupta201@outlook.com](mailto:sagargupta201@outlook.com)
 
 ### Skills
